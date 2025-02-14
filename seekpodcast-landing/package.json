@@ -9,7 +9,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://SeekPodCast-ai.github.io/",
+  "homepage": "https://seekpodcast-ai.github.io/seekpodcast-landing/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -35,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
