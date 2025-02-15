@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/seekpodcast-landing/static/css/main.e6c13ad2.css",
-    "main.js": "/seekpodcast-landing/static/js/main.1559a77c.js",
+    "main.css": "/seekpodcast-landing/static/css/main.e0c9fbbf.css",
+    "main.js": "/seekpodcast-landing/static/js/main.5a945571.js",
     "static/js/488.d1b6d414.chunk.js": "/seekpodcast-landing/static/js/488.d1b6d414.chunk.js",
     "index.html": "/seekpodcast-landing/index.html",
-    "main.e6c13ad2.css.map": "/seekpodcast-landing/static/css/main.e6c13ad2.css.map",
-    "main.1559a77c.js.map": "/seekpodcast-landing/static/js/main.1559a77c.js.map",
+    "main.e0c9fbbf.css.map": "/seekpodcast-landing/static/css/main.e0c9fbbf.css.map",
+    "main.5a945571.js.map": "/seekpodcast-landing/static/js/main.5a945571.js.map",
     "488.d1b6d414.chunk.js.map": "/seekpodcast-landing/static/js/488.d1b6d414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.1559a77c.js"
+    "static/css/main.e0c9fbbf.css",
+    "static/js/main.5a945571.js"
   ]
 }
